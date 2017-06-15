@@ -15,6 +15,13 @@ dependencies {
 }
 ```
 
+# Neo4j Graph outputs ( File / Directory tree structure in graph )
+Browse at http://127.0.0.1:7474/browser/
+
+![Alt text](neo4j-graph-01.png?raw=true "neo4j-graph-01.png")
+
+![Alt text](neo4j-graph-02.png?raw=true "neo4j-graph-02.png")
+
 # Author
 https://www.linkedin.com/in/alokawi
 
